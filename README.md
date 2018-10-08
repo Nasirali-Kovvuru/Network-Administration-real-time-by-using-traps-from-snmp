@@ -2,7 +2,7 @@ In this project there are 6 scripts to work with, those are " config.php, getSta
 
 config.php    -> this file is used to create a database with 2 tables as per our requirement we can change number of tables.
 
-setTrapR.php  -> this file is used to set the device(just for lab experimentation in real time this will be replaced with real network elements.) to send traps
+setTrapR.php  -> this file is used to set the device(just for lab experimentation in real time this will be replaced with real network elements.) to send traps.
 
 getStatus.php -> this file is used to fetch the details in the trapdata table from the database. 
 
